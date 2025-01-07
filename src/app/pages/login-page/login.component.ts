@@ -1,4 +1,4 @@
-import { Button } from '@/core/components/ui';
+import { Button } from '@/core/components/ui/button';
 import { ChangeDetectionStrategy, Component, inject } from '@angular/core';
 import { AuthService } from '@auth0/auth0-angular';
 
